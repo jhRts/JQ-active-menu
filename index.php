@@ -6,6 +6,9 @@
     <script src="/JQ-active-menu/lib/jquery-2.0.3.min.js"></script>
     <script src="menuActive.js"></script>
     <style>
+    
+    /* LAV EN CSS fil, din dovne hund */
+    
         .active{
             background-color: rgba(42, 255, 45, 0.44);
         }
