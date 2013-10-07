@@ -5,11 +5,7 @@
     <title>JQ active menu</title>
     <script src="/JQ-active-menu/lib/jquery-2.0.3.min.js"></script>
     <script src="menuActive.js"></script>
-    <style>
-        .active{
-            background-color: rgba(42, 255, 45, 0.44);
-        }
-    </style>
+    <link href="style.css">
 </head>
 <body>
     <p>Kun over (xampp) server, mappenavn er "JQ-active-menu"</p>
